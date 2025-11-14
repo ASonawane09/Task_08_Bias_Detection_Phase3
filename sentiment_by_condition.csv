@@ -1,0 +1,5 @@
+prompt_label,provider,sentiment_mean
+neutral,sim,0.05
+positive,sim,0.22
+negative,sim,-0.15
+demographic,sim,0.08

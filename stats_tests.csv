@@ -1,0 +1,4 @@
+test,comparison,statistic,p_value,notes
+chi2,offense_rate_across_conditions,7.90,0.048,simulated counts
+ttest,sentiment_positive_vs_negative,2.35,0.028,simulated polarity
+

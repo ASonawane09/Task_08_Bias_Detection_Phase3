@@ -1,0 +1,5 @@
+prompt_label,provider,offense_rate,defense_rate,team_rate,individual_rate
+neutral,sim,0.50,0.50,0.33,0.46
+positive,sim,0.83,0.33,0.25,0.42
+negative,sim,0.33,0.83,0.42,0.38
+demographic,sim,0.50,0.42,0.67,0.33
